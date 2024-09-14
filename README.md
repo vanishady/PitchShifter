@@ -13,5 +13,5 @@ Harmonizer with delay-based pitch shifting (VST plugin, standalone)
 
 ### Downloads
 
-Our plugin is available also on [dropbox](https://www.dropbox.com/sh/bhg6qcljfvwfwdk/AADGiG4s0tXkn8_Tgm_Jq9HNa?dl=0) and [LIM](https://www.lim.di.unimi.it/) website.
+⋆｡°✩ Our plugin is available also on [dropbox](https://www.dropbox.com/sh/bhg6qcljfvwfwdk/AADGiG4s0tXkn8_Tgm_Jq9HNa?dl=0) and [LIM](https://www.lim.di.unimi.it/) website. ⋆｡°✩
 
