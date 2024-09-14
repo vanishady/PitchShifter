@@ -1,0 +1,2 @@
+/* That's our first version */
+Questa è la nostra prima versione, per cui nessun cambiamento rispetto alle versioni precedenti è da segnalare.
